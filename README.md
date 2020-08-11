@@ -14,6 +14,9 @@ http://aidiary.hatenablog.com/entry/20110225/1298622766
 ### 1-dim RNN + Relu activation + Weight Parameter Shift
 ![image](https://user-images.githubusercontent.com/1684732/89889577-cfaa8a80-dc0c-11ea-8305-82e1f32d7529.png)
 
+#### Detailed image of Relu activation (bias = 1.0)
+![image](https://user-images.githubusercontent.com/1684732/89890828-f9fd4780-dc0e-11ea-9c98-6a3d00c24076.png)
+
 ### 1-dim RNN + Tanh activation + Bias Parameter Shift
 ![image](https://user-images.githubusercontent.com/1684732/89889541-bc97ba80-dc0c-11ea-99b0-0449ac930981.png)
 
